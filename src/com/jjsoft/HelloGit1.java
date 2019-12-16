@@ -17,6 +17,14 @@ public class HelloGit1 {
 		
 		System.out.println("new featue1 of FeatureBranch3");
 		System.out.println("new featue1 of FeatureBranch3");
+		
+		System.out.println("new featue1 of FeatureBranch4");
+		System.out.println("new featue1 of FeatureBranch4");
+		
+		System.out.println("new featue1 of FeatureBranch4");
+		System.out.println("new featue1 of FeatureBranch4");
+		
+		
 	}
 
 }
