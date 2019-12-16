@@ -9,6 +9,9 @@ public class HelloGit {
 		System.out.println("after feature4 master1 commit1");
 		System.out.println("after feature4 master1 commit1");
 
+		System.out.println("after feature4 master1 commit2");
+		System.out.println("after feature4 master1 commit2");
+		System.out.println("after feature4 master1 commit2");
 
 	}
 
