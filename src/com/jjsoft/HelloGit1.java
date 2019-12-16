@@ -25,6 +25,9 @@ public class HelloGit1 {
 		System.out.println("new featue1 of FeatureBranch4");
 		
 		
+		System.out.println("master 5===================");
+		
+		
 	}
 
 }
