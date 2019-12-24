@@ -17,6 +17,8 @@ public class HelloGit {
 		System.out.println("Welcome to git world....Happy Learning.....55");
 		System.out.println("Welcome to git world....Happy Learning.....66");
 		
+		System.out.println("after rebase merge conflicts.....1");
+		
 		
 	}
 
