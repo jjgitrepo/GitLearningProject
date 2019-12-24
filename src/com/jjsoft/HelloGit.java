@@ -3,8 +3,8 @@ package com.jjsoft;
 public class HelloGit {
 
 	public static void main(String[] args) {
-		System.out.println("Welcome to git world....Happy Learning.....by Harshit.. from master branch");
+		System.out.println("Welcome to git world....Happy Learning.....");
 		
-			}
+	}
 
 }
